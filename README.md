@@ -1,7 +1,5 @@
 # eec266_project
-Project for Fall 2019 offering of EEC 266, Information Theory, at UC Davis including replication of numerical results from  “Maximum Mutual In-
-formation Design for MIMO Systems With Imperfect Chan-
-nel Knowledge” [1].
+Project for Fall 2019 offering of EEC 266, Information Theory, at UC Davis including replication of numerical results from  “Maximum Mutual Information Design for MIMO Systems With Imperfect Channel Knowledge” [1].
 
 Oct. 2010.
 
